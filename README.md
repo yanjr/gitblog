@@ -5,11 +5,9 @@ My personal blog([About Me](https://github.com/yanjr/gitblog/issues/282)) using 
 [RSS Feed](https://raw.githubusercontent.com/yanjr/gitblog/master/feed.xml)
 
 ## 最近更新
-## 生活
+## 技术文章
 
-- [没用的知识-身份证识别性别](https://github.com/yanjr/gitblog/issues/10)--2025-08-12
-- [每日杂记](https://github.com/yanjr/gitblog/issues/8)--2025-02-19
-- [Test gitblog](https://github.com/yanjr/gitblog/issues/1)--2023-03-07
+- [达梦数据库DM8客户端配置](https://github.com/yanjr/gitblog/issues/7)--2024-06-27
 ## 读书笔记
 
 - [If you](https://github.com/yanjr/gitblog/issues/6)--2024-05-23
