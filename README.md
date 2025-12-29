@@ -9,11 +9,11 @@ My personal blog([About Me](https://github.com/yanjr/gitblog/issues/12)) using i
 - [Gitblog](https://github.com/yanjr/gitblog/issues/3)--2023-03-07
 - [Top](https://github.com/yanjr/gitblog/issues/2)--2023-03-07
 ## 最近更新
+- [Things I like](https://github.com/yanjr/gitblog/issues/13)--2025-12-29
+- [About me](https://github.com/yanjr/gitblog/issues/12)--2025-12-29
+- [This is a new Issues](https://github.com/yanjr/gitblog/issues/11)--2025-12-29
 - [没用的知识-身份证识别性别](https://github.com/yanjr/gitblog/issues/10)--2025-08-12
 - [每日杂记](https://github.com/yanjr/gitblog/issues/8)--2025-02-19
-- [达梦数据库DM8客户端配置](https://github.com/yanjr/gitblog/issues/7)--2024-06-27
-- [If you](https://github.com/yanjr/gitblog/issues/6)--2024-05-23
-- [男人，不能靠工资变富](https://github.com/yanjr/gitblog/issues/5)--2024-03-11
 ## 技术文章
 
 - [达梦数据库DM8客户端配置](https://github.com/yanjr/gitblog/issues/7)--2024-06-27
